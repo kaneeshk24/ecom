@@ -1,0 +1,163 @@
+.frameChild {
+  width: 484px;
+  position: relative;
+  border-radius: var(--br-xl);
+  height: 704px;
+  object-fit: cover;
+}
+.exploreNow,
+.hoodiesSweetshirt {
+  width: 321px;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+  height: 36px;
+  flex-shrink: 0;
+}
+.exploreNow {
+  width: 151px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-400);
+  height: 33px;
+}
+.hoodiesSweetshirtParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameItem {
+  width: 32px;
+  position: relative;
+  max-height: 100%;
+}
+.frameGroup,
+.rectangleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-112xl);
+}
+.rectangleParent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xl);
+}
+.coatsParkas,
+.exploreNow1 {
+  width: 230px;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+  height: 36px;
+  flex-shrink: 0;
+}
+.exploreNow1 {
+  width: 153px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-400);
+  height: 32px;
+}
+.frameContainer,
+.rectangleGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-203xl);
+}
+.rectangleGroup {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+}
+.rectangleIcon {
+  width: 490px;
+  position: relative;
+  border-radius: var(--br-xl);
+  height: 704px;
+  object-fit: cover;
+}
+.exploreNow2,
+.teesTShirt {
+  width: 209px;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+  height: 37px;
+  flex-shrink: 0;
+}
+.exploreNow2 {
+  width: 144px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-400);
+  height: 33px;
+}
+.frameDiv,
+.frameParent,
+.rectangleContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-230xl);
+}
+.frameParent,
+.rectangleContainer {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.frameParent {
+  position: absolute;
+  top: 83px;
+  left: -104px;
+  flex-direction: row;
+  gap: var(--gap-71xl);
+}
+.groupChild,
+.newArrivals1 {
+  position: absolute;
+  top: 23px;
+  left: 225px;
+  width: 186px;
+  height: 34.9px;
+}
+.newArrivals1 {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.06em;
+  line-height: 50px;
+  font-weight: 900;
+  display: inline-block;
+  width: 404px;
+  height: 41px;
+}
+.newArrivals,
+.vectorParent {
+  position: absolute;
+  top: -76px;
+  left: -104px;
+  width: 411px;
+  height: 57.9px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.newArrivals {
+  top: 76px;
+  left: 104px;
+  width: 1638px;
+  height: 967px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-poppins);
+}
